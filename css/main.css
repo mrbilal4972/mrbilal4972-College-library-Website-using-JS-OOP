@@ -1,0 +1,32 @@
+body{
+    background-image: url('../image/back.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+tbody{
+    color: black;
+}
+
+.hideItem{
+    display: none;
+}
+.showItem{
+    display: block;
+}
+.col-form-label{
+    font-weight: bold;
+    text-shadow: 1px 1px black;
+}
+
+.form-check-label{
+    font-weight: bold;
+    text-shadow: 1px 1px black;
+    font-size: 1rem;
+}
+
+#bookAddition{
+    background-color: rosybrown;
+    background-color: rgba(255, 255, 255, 0.4);
+    box-sizing: border-box;
+}
